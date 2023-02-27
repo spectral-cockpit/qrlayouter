@@ -7,7 +7,8 @@ Authors@R:
              email = "spectral-cockpit@proton.me",
              role = c("aut", "cre")
     )
-Description: What the package does (one paragraph).
+Description: Create Quick Response (QR)-Codes and align them together with 
+    custom labels across a desired grid layout.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
