@@ -1,0 +1,14 @@
+Package: qrlayouter
+Title: Generate Barcode Labels Aligned in Flexible Grid Layouts
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Philipp",
+             family = "Baumann",
+             email = "spectral-cockpit@proton.me",
+             role = c("aut", "cre")
+    )
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
