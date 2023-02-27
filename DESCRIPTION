@@ -1,5 +1,5 @@
 Package: qrlayouter
-Title: Generate Barcode Labels Aligned in Flexible Grid Layouts
+Title: Generate QR-Code Labels Aligned in Flexible Grid Layouts
 Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Philipp",
