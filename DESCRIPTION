@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Philipp",
              family = "Baumann",
-             email = "spectral-cockpit@proton.me",
+             email = "info@spectral-cockpit.space",
              role = c("aut", "cre")
     )
 Description: Create Quick Response (QR)-Codes and align them together with 
